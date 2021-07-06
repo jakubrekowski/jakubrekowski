@@ -3,7 +3,7 @@
 I am Jakub. Since 2015, I have been creating frontend and backend in JavaScript. I am interested in security engineering in web applications and software as in companies. I am a Linux user and administrator.
 
 My technology stack:
-<table style="border: 0; margin-top: -13px">
+<table style="border: none!important; margin-top: -13px">
  <tr>
     <td>
       <ul>
