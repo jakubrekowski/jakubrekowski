@@ -2,7 +2,7 @@
 
 I'm a technichal school student majoring in industrial automatics 🏭. I've been programming for years. I started creating front-end, with time i progressively go to back-end.
 
-## What i currently learning? 📖
+## What I currently learning? 📖
 
 At the moment, i learns Golang. I will plan learn Rust. Additionaly i learn programming in SCL and LDR for programmable logic controller (PLC). And next, who knows?
 
