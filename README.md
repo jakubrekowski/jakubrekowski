@@ -70,6 +70,4 @@ No every my work is on GitHub, byt i recommend visit [Repositories](https://gith
   margin-right: 5px
 " alt="python">
 
-Oprócz tego tworzę PWA oraz API REST jak i GraphQL za pomoca Express i Apollo Server.
-
 In addition, I create Progresive Web Apps, REST API in Express and GraphQL in Apollo Server.
