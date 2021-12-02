@@ -8,7 +8,7 @@ At the moment, I learns Golang. I will plan learn Rust. Additionaly I learn prog
 
 ## Technologies 💻
 
-No every my work is on GitHub, byt I recommend visit [Repositories](https://github.com/jakubrekowski?tab=repositories) tab.
+No every my work is on GitHub, but I recommend visit [Repositories](https://github.com/jakubrekowski?tab=repositories) tab.
 
 <img src="https://img.icons8.com/color/2x/html-5.png" style="
   width: 50px;
