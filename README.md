@@ -1,14 +1,14 @@
 # Hello there, 👋
 
-I'm a technichal school student majoring in industrial automatics 🏭. I've been programming for years. I started creating front-end, with time I progressively go to back-end.
+I'm a technical school student majoring in industrial automatics 🏭. I've been programming for years. I started creating the front-end, with time I progressively go to the back-end.
 
-## What I currently learning? 📖
+## What am I currently learning? 📖
 
-At the moment, I learns Golang. I will plan learn Rust. Additionaly I learn programming in SCL and LDR for programmable logic controller (PLC). And next, who knows?
+At the moment, I learns Golang. I will plan to learn Rust. Additionally, I learn to program in SCL and LDR for the programmable logic controller (PLC). And next, who knows?
 
 ## Technologies 💻
 
-No every my work is on GitHub, but I recommend visit [Repositories](https://github.com/jakubrekowski?tab=repositories) tab.
+Now all my work is on GitHub, but I recommend visiting [Repositories](https://github.com/jakubrekowski?tab=repositories) tab.
 
 <img src="https://img.icons8.com/color/2x/html-5.png" style="
   width: 50px;
@@ -75,4 +75,4 @@ No every my work is on GitHub, but I recommend visit [Repositories](https://gith
   margin-right: 5px
 " alt="golang">
 
-In addition, I create Progresive Web Apps, REST API in Express and GraphQL in Apollo Server.
+In addition, I create Progressive Web Apps, REST API in Express, and GraphQL in Apollo Server.
