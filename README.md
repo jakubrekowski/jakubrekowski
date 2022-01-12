@@ -1,14 +1,6 @@
-# Hello there, 👋
+I'm a technical school student majoring in industrial automatics 🏭. I making: frontend in React, Vue, and Svelte; backend in Node.js and go; and applications like databases or CDNs in go and python.
 
-I'm a technical school student majoring in industrial automatics 🏭. I've been programming for years. I started creating the front-end, with time I progressively go to the back-end.
-
-## What am I currently learning? 📖
-
-At the moment, I learns Golang. I will plan to learn Rust. Additionally, I learn to program in SCL and LDR for the programmable logic controller (PLC). And next, who knows?
-
-## Technologies 💻
-
-Now all my work is on GitHub, but I recommend visiting [Repositories](https://github.com/jakubrekowski?tab=repositories) tab.
+### Technologies what i using daily
 
 <img src="https://img.icons8.com/color/2x/html-5.png" style="
   width: 50px;
@@ -74,5 +66,3 @@ Now all my work is on GitHub, but I recommend visiting [Repositories](https://gi
   height: 50px;
   margin-right: 5px
 " alt="golang">
-
-In addition, I create Progressive Web Apps, REST API in Express, and GraphQL in Apollo Server.
