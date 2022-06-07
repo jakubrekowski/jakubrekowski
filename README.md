@@ -1,6 +1,7 @@
-I'm a technical school student majoring in industrial automatics 🏭. I making: frontend in React, Vue, and Svelte; backend in Node.js and go; and applications like databases or CDNs in go and python.
+I'm a technical school student majoring in industrial automatics. 
+Skills: React, Vue, Svelte, Node.js, Go, Python
 
-### Technologies what i using daily
+### Technologies i use daily
 
 <img src="https://img.icons8.com/color/2x/html-5.png" style="
   width: 50px;
